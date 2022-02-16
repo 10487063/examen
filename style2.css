@@ -1,0 +1,20 @@
+body {
+    background-color: burlywood;
+}
+hr {
+    color: white;
+}
+
+h1.cripto {
+    text-align: center;
+}
+
+span.autor {
+    text-align: center;
+    background-color: yellow;
+    display: block;
+    
+}
+span.nom {
+    color: red;
+}

@@ -1,0 +1,51 @@
+body {
+    background-color: burlywood;
+}
+
+h1.cripto {
+    text-align: center;
+}
+
+hr {
+    color: white;
+}
+
+h2.titulo {
+    text-align: center;
+    color: blue;
+    
+}
+
+p.bitcoin {
+    position: relative;
+    top: 20%;
+    left: 70%;
+    color: blue;
+}
+
+p.etherum {
+    position: relative;
+    top: 50%;
+    left: 55%;
+    color: blue;
+}
+
+p.litecoin {
+    position: relative;
+    top: 70%;
+    left: 20%;
+    color: blue;
+}
+span.autor {
+    text-align: center;
+    background-color: yellow;
+    display: block;
+    
+}
+span.nom {
+    color: red;
+}
+span.etherum {
+    background-color: white;
+    display: block;
+}
